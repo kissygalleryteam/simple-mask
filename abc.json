@@ -1,0 +1,14 @@
+{
+    "name": "simple-mask",
+    "version": "1.0",
+    "desc": "触屏设备中的简单蒙层组件",
+    "cover": "",
+    "tag":"mobile",
+    "author": {
+        "name": "bachi",
+        "email": "bachi@taobao.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
